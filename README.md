@@ -1,4 +1,13 @@
 ### Hi there 👋
+### Ahmed Radwan
+An Aerospace graduate who’s interested in robotics, software engineering, and the applications of robotics in self-driving cars.
+
+![bg][banner]
+
+📺 [Youtube](https://www.youtube.com/channel/UCDjY8EDU3F_upX53iWIP3RA) **|** 
+👔 [linkedin](https://www.linkedin.com/in/ahmed-radwan-682193155/)
+
+[banner]: https://github.com/AhmedARadwan/AhmedARadwan/blob/master/autoware_blocks.gif
 
 <!--
 **AhmedARadwan/AhmedARadwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
