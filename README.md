@@ -1,6 +1,10 @@
-### Hi there 👋
-### Ahmed Radwan
-An Aerospace graduate who’s interested in robotics, software engineering, and the applications of robotics in self-driving cars.
+## 👋 Hi there 👋
+## 😄 I'm Ahmed Radwan 😄 
+## ⚡ Yonohub Developer Advocate ⚡
+#### I love working on different technologies in Autonomous Vehicles and Robotics
+
+I'll add more soon 
+
 
 ![bg][banner]
 
