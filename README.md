@@ -1,14 +1,12 @@
 ## 👋 Hi there 👋
 ## 😄 I'm Ahmed Radwan 😄 
 ## ⚡ Senior Software Engineer ⚡
-#### I love working on different technologies in Autonomous Vehicles and Robotics
-
-I'll add more soon 
+Accomplished Senior Software Engineer confident in design, development and team leadership. Consistent in accomplishing project goals and satisfying customers with exceptional software solutions. Well-versed in current technologies, trends and programming languages. Expert in C++, ROS, and MLOps.
 
 
 ![bg][banner]
 
-[banner]: https://github.com/AhmedARadwan/AhmedARadwan/blob/master/autoware_blocks.gif
+[banner]: https://github.com/AhmedARadwan/AhmedARadwan/blob/master/classification.gif
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaradwan&layout=compact&hide=html" alt="ahmedaradwan" /></p>  
 
